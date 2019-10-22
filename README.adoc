@@ -1,0 +1,3 @@
+# Client Netatmo
+
+Repository to create Netatmo SDK in Golang
