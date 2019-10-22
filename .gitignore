@@ -10,3 +10,7 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+# Exclude file of config in Env Dev and Prod
+*.development.yaml
+*.production.yaml
