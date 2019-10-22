@@ -1,0 +1,13 @@
+#
+# Manage auth for API
+auth:
+  client_id: test_clientID
+  client_secret: test_clientSecret
+  username: test_login
+  password: test_password
+
+api_url:
+  core: http://localhost/
+  auth: token
+  home: home
+
